@@ -7,6 +7,18 @@
 Stage : 1
 
 Tips
+	Text	: "boss_card_2"
+	Pos	: 0, 20
+	Count	: 50
+	Base	: boss_card_2
+	Align	: start
+	Time	: 240
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
 	Text	: " __"
 	Pos	: 0, 135
 	Count	: 50
@@ -33,7 +45,7 @@ End
 Tips
 	Text	: "  _"
 	Pos	: 0, 151
-	Count	: 0
+	Count	: 50
 	Base	: boss_card_2
 	Align	: start
 	Time	: 240
@@ -116,12 +128,13 @@ End
 
 StageEnd
 
+
 Stage : 2
 
 Tips
 	Text	: "___         __          ___"
 	Pos	: -12, 146
-	Count	: 0
+	Count	: 25
 	Base	: boss_card_2
 	Align	: start
 	Time	: 2400
@@ -133,7 +146,7 @@ End
 Tips
 	Text	: "|                               |"
 	Pos	: -16, 112
-	Count	: 0
+	Count	: 25
 	Base	: boss_card_2
 	Align	: start
 	Time	: 2400
@@ -145,7 +158,7 @@ End
 Tips
 	Text	: "|                               |"
 	Pos	: -16, 130
-	Count	: 0
+	Count	: 25
 	Base	: boss_card_2
 	Align	: start
 	Time	: 2400
