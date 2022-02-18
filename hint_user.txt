@@ -1,0 +1,290 @@
+#--------------------------------------------------
+# Åuth10_HintTool Ver0.01ÅvÇ≈ê∂ê¨Ç≥ÇÍÇ‹ÇµÇΩÅB
+#
+# CreateDate : [220210_163028]
+#--------------------------------------------------
+
+Stage : 1
+
+Tips
+	Text	: " __"
+	Pos	: 0, 135
+	Count	: 50
+	Base	: boss_card_2
+	Align	: start
+	Time	: 240
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: " _ "
+	Pos	: 0, 145
+	Count	: 50
+	Base	: boss_card_2
+	Align	: start
+	Time	: 240
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "  _"
+	Pos	: 0, 151
+	Count	: 0
+	Base	: boss_card_2
+	Align	: start
+	Time	: 240
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "  _"
+	Pos	: 0, 140
+	Count	: 780
+	Base	: boss_card_2
+	Align	: start
+	Time	: 240
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: " _ "
+	Pos	: 0, 147
+	Count	: 780
+	Base	: boss_card_2
+	Align	: start
+	Time	: 240
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: " __"
+	Pos	: 0, 156
+	Count	: 780
+	Base	: boss_card_2
+	Align	: start
+	Time	: 240
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: " __"
+	Pos	: 0, 135
+	Count	: 1560
+	Base	: boss_card_2
+	Align	: start
+	Time	: 240
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: " _ "
+	Pos	: 0, 145
+	Count	: 1560
+	Base	: boss_card_2
+	Align	: start
+	Time	: 240
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "  _"
+	Pos	: 0, 151
+	Count	: 1560
+	Base	: boss_card_2
+	Align	: start
+	Time	: 240
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+StageEnd
+
+
+Stage : 3
+
+Tips
+	Text	: "^"
+	Pos	: -1, 277
+	Count	: 22
+	Base	: mboss_1
+	Align	: start
+	Time	: 300
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "^"
+	Pos	: -10, 265
+	Count	: 22
+	Base	: mboss_1
+	Align	: start
+	Time	: 300
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "."
+	Pos	: -4, 260
+	Count	: 22
+	Base	: mboss_1
+	Align	: start
+	Time	: 300
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "."
+	Pos	: -14, 260
+	Count	: 22
+	Base	: mboss_1
+	Align	: start
+	Time	: 300
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "."
+	Pos	: -19, 265
+	Count	: 22
+	Base	: mboss_1
+	Align	: start
+	Time	: 300
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "."
+	Pos	: -9, 265
+	Count	: 22
+	Base	: mboss_1
+	Align	: start
+	Time	: 300
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "."
+	Pos	: -24, 270
+	Count	: 22
+	Base	: mboss_1
+	Align	: start
+	Time	: 300
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "."
+	Pos	: -14, 270
+	Count	: 22
+	Base	: mboss_1
+	Align	: start
+	Time	: 300
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "o               o"
+	Pos	: -8, 62
+	Count	: 1800
+	Base	: boss_1
+	Align	: start
+	Time	: 3000
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: " o     o"
+	Pos	: -8, 84
+	Count	: 1800
+	Base	: boss_1
+	Align	: start
+	Time	: 3000
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "^"
+	Pos	: -1, 277
+	Count	: 22
+	Base	: boss_2
+	Align	: start
+	Time	: 300
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "^"
+	Pos	: -10, 265
+	Count	: 22
+	Base	: boss_2
+	Align	: start
+	Time	: 300
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "."
+	Pos	: -4, 260
+	Count	: 22
+	Base	: boss_2
+	Align	: start
+	Time	: 300
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "."
+	Pos	: -14, 260
+	Count	: 22
+	Base	: boss_2
+	Align	: start
+	Time	: 300
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+StageEnd
