@@ -198,6 +198,18 @@ End
 
 Tips
 	Text	: "."
+	Pos	: -14, 260
+	Count	: 22
+	Base	: mboss_1
+	Align	: start
+	Time	: 300
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "."
 	Pos	: -4, 260
 	Count	: 22
 	Base	: mboss_1
@@ -210,7 +222,7 @@ End
 
 Tips
 	Text	: "."
-	Pos	: -14, 260
+	Pos	: -9, 265
 	Count	: 22
 	Base	: mboss_1
 	Align	: start
@@ -233,17 +245,6 @@ Tips
 End
 
 Tips
-	Text	: "."
-	Pos	: -9, 265
-	Count	: 22
-	Base	: mboss_1
-	Align	: start
-	Time	: 300
-	Alpha	: 255
-	Color	: 255, 255, 255
-	Scale	: 1.0
-End
-
 Tips
 	Text	: "."
 	Pos	: -24, 270
@@ -271,10 +272,10 @@ End
 Tips
 	Text	: "o               o"
 	Pos	: -8, 62
-	Count	: 1800
+	Count	: 800
 	Base	: boss_1
 	Align	: start
-	Time	: 3000
+	Time	: 4000
 	Alpha	: 255
 	Color	: 255, 255, 255
 	Scale	: 1.0
@@ -283,10 +284,10 @@ End
 Tips
 	Text	: " o     o"
 	Pos	: -8, 84
-	Count	: 1800
+	Count	: 800
 	Base	: boss_1
 	Align	: start
-	Time	: 3000
+	Time	: 4000
 	Alpha	: 255
 	Color	: 255, 255, 255
 	Scale	: 1.0
