@@ -395,11 +395,11 @@ Stage : 4
 
 Tips
 	Text	: "."
-	Pos	: -15, 244
+	Pos	: -11, 245
 	Count	: 25
-	Base	: start
+	Base	: boss_card_1
 	Align	: start
-	Time	: 3600
+	Time	: 2580
 	Alpha	: 255
 	Color	: 255, 255, 255
 	Scale	: 1.0
@@ -407,11 +407,11 @@ End
 
 Tips
 	Text	: "."
-	Pos	: -5, 249
+	Pos	: -13, 243
 	Count	: 25
-	Base	: start
+	Base	: boss_card_1
 	Align	: start
-	Time	: 3600
+	Time	: 2580
 	Alpha	: 255
 	Color	: 255, 255, 255
 	Scale	: 1.0
@@ -419,11 +419,11 @@ End
 
 Tips
 	Text	: "."
-	Pos	: -5, 239
+	Pos	: -19, 241
 	Count	: 25
-	Base	: start
+	Base	: boss_card_1
 	Align	: start
-	Time	: 3600
+	Time	: 2580
 	Alpha	: 255
 	Color	: 255, 255, 255
 	Scale	: 1.0
@@ -431,11 +431,11 @@ End
 
 Tips
 	Text	: "."
-	Pos	: 15, 244
+	Pos	: 13, 245
 	Count	: 25
-	Base	: start
+	Base	: boss_card_1
 	Align	: start
-	Time	: 3600
+	Time	: 2580
 	Alpha	: 255
 	Color	: 255, 255, 255
 	Scale	: 1.0
@@ -443,11 +443,11 @@ End
 
 Tips
 	Text	: "."
-	Pos	: 5, 249
+	Pos	: 15, 243
 	Count	: 25
-	Base	: start
+	Base	: boss_card_1
 	Align	: start
-	Time	: 3600
+	Time	: 2580
 	Alpha	: 255
 	Color	: 255, 255, 255
 	Scale	: 1.0
@@ -455,11 +455,11 @@ End
 
 Tips
 	Text	: "."
-	Pos	: 5, 239
+	Pos	: 21, 241
 	Count	: 25
-	Base	: start
+	Base	: boss_card_1
 	Align	: start
-	Time	: 3600
+	Time	: 2580
 	Alpha	: 255
 	Color	: 255, 255, 255
 	Scale	: 1.0
