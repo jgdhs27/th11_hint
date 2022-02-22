@@ -245,7 +245,6 @@ Tips
 End
 
 Tips
-Tips
 	Text	: "."
 	Pos	: -24, 270
 	Count	: 22
@@ -390,3 +389,81 @@ Tips
 End
 
 StageEnd
+
+
+Stage : 4
+
+Tips
+	Text	: "."
+	Pos	: -15, 244
+	Count	: 25
+	Base	: start
+	Align	: start
+	Time	: 3600
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "."
+	Pos	: -5, 249
+	Count	: 25
+	Base	: start
+	Align	: start
+	Time	: 3600
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "."
+	Pos	: -5, 239
+	Count	: 25
+	Base	: start
+	Align	: start
+	Time	: 3600
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "."
+	Pos	: 15, 244
+	Count	: 25
+	Base	: start
+	Align	: start
+	Time	: 3600
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "."
+	Pos	: 5, 249
+	Count	: 25
+	Base	: start
+	Align	: start
+	Time	: 3600
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Text	: "."
+	Pos	: 5, 239
+	Count	: 25
+	Base	: start
+	Align	: start
+	Time	: 3600
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+StageEnd
+
