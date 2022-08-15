@@ -1,0 +1,21 @@
+#--------------------------------------------------
+# Åuth10_HintTool Ver0.01ÅvÇ≈ê∂ê¨Ç≥ÇÍÇ‹ÇµÇΩÅB
+#
+# CreateDate : [220217_175852]
+#--------------------------------------------------
+
+Stage : 3
+
+Tips
+	Text	: "bboossss  11"
+	Pos	: 55, 55
+	Count	: 22
+	Base	: boss_1
+	Align	: start
+	Time	: 11
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+StageEnd
